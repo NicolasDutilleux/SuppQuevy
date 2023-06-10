@@ -1,0 +1,17 @@
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\M dm\M dm\bin\Debug\net6.0-windows\M dm.exe
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\M dm\M dm\bin\Debug\net6.0-windows\M dm.deps.json
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\M dm\M dm\bin\Debug\net6.0-windows\M dm.runtimeconfig.json
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\M dm\M dm\bin\Debug\net6.0-windows\M dm.dll
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\M dm\M dm\bin\Debug\net6.0-windows\M dm.pdb
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\M dm\M dm\obj\Debug\net6.0-windows\M dm.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\M dm\M dm\obj\Debug\net6.0-windows\M_dm.Form1.resources
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\M dm\M dm\obj\Debug\net6.0-windows\M dm.csproj.GenerateResource.cache
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\M dm\M dm\obj\Debug\net6.0-windows\M dm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\M dm\M dm\obj\Debug\net6.0-windows\M dm.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\M dm\M dm\obj\Debug\net6.0-windows\M dm.AssemblyInfo.cs
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\M dm\M dm\obj\Debug\net6.0-windows\M dm.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\M dm\M dm\obj\Debug\net6.0-windows\M dm.dll
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\M dm\M dm\obj\Debug\net6.0-windows\refint\M dm.dll
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\M dm\M dm\obj\Debug\net6.0-windows\M dm.pdb
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\M dm\M dm\obj\Debug\net6.0-windows\M dm.genruntimeconfig.cache
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\M dm\M dm\obj\Debug\net6.0-windows\ref\M dm.dll
