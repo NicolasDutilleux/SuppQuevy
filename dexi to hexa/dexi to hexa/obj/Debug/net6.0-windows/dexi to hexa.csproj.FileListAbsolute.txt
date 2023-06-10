@@ -1,0 +1,17 @@
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\dexi to hexa\dexi to hexa\bin\Debug\net6.0-windows\dexi to hexa.exe
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\dexi to hexa\dexi to hexa\bin\Debug\net6.0-windows\dexi to hexa.deps.json
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\dexi to hexa\dexi to hexa\bin\Debug\net6.0-windows\dexi to hexa.runtimeconfig.json
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\dexi to hexa\dexi to hexa\bin\Debug\net6.0-windows\dexi to hexa.dll
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\dexi to hexa\dexi to hexa\bin\Debug\net6.0-windows\dexi to hexa.pdb
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\dexi to hexa\dexi to hexa\obj\Debug\net6.0-windows\dexi to hexa.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\dexi to hexa\dexi to hexa\obj\Debug\net6.0-windows\dexi_to_hexa.Form1.resources
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\dexi to hexa\dexi to hexa\obj\Debug\net6.0-windows\dexi to hexa.csproj.GenerateResource.cache
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\dexi to hexa\dexi to hexa\obj\Debug\net6.0-windows\dexi to hexa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\dexi to hexa\dexi to hexa\obj\Debug\net6.0-windows\dexi to hexa.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\dexi to hexa\dexi to hexa\obj\Debug\net6.0-windows\dexi to hexa.AssemblyInfo.cs
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\dexi to hexa\dexi to hexa\obj\Debug\net6.0-windows\dexi to hexa.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\dexi to hexa\dexi to hexa\obj\Debug\net6.0-windows\dexi to hexa.dll
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\dexi to hexa\dexi to hexa\obj\Debug\net6.0-windows\refint\dexi to hexa.dll
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\dexi to hexa\dexi to hexa\obj\Debug\net6.0-windows\dexi to hexa.pdb
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\dexi to hexa\dexi to hexa\obj\Debug\net6.0-windows\dexi to hexa.genruntimeconfig.cache
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\dexi to hexa\dexi to hexa\obj\Debug\net6.0-windows\ref\dexi to hexa.dll
